@@ -6,5 +6,5 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(), tailwindcss()
   ],
- base:"/kamil-e-commerce=coffee-shop/",
+ base:"/kamil-e-commerce-coffee-shop/",
 })
